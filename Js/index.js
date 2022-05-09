@@ -6,6 +6,5 @@ var uberX = new UberX("NFD321", new Account("Jesus Cortaza", "JECO563"), "Chevro
 uberX.passenger = 4;
 uberX.printDataCar();
 
-var uberX2 = new UberX("JKA785", new Account("Luis Diaz", "LUDI340"), "Toyota", "TXL")
-uberX2.passenger = 4;
-uberX2.printDataCar();
+var user = new User("Luis Antonio", "LUAN723", "Luan123@gmail.com", "Luan1234")
+user.printDataUser();
